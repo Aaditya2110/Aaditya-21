@@ -1,0 +1,14 @@
+/* table{
+    padding: 20px;
+} */
+.first{
+    color: aquamarine;
+    background-color: black;
+    padding-left: 400px;
+}
+#second{
+    color: rgb(255, 127, 155);
+}
+body{
+    background-color: burlywood;
+}
