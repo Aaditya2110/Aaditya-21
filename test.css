@@ -1,6 +1,7 @@
-body{
-    background-color: yellow;
+
+div p {
+    color: red;
 }
-table{
-    border:  solid black;
+div p {
+    color: blue;
 }
